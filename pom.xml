@@ -12,7 +12,7 @@
     <artifactId>canal-client-spring-boot-starter</artifactId>
     <version>1.0.0</version>
     <name>canal-client-spring-boot-starter</name>
-    <description>Demo project for Spring Boot</description>
+    <description>canal spring boot脚手架</description>
 
 
     <properties>
